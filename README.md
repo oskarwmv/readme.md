@@ -16,12 +16,10 @@ average, 300 projects per year, combining strategic creativity with advanced tec
 ### Back-end
 
 ![LUA Badge](https://img.shields.io/badge/LUA-000000?style=for-the-badge&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Others
 
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
-![Github Actions Badge](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </br>
